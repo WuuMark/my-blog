@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/wuumark/blog
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -15,9 +15,10 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+  search: /search/
   about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  projects: http://github.com/wuumark/blog
 
 
 # Links to your social media accounts.
@@ -47,8 +48,7 @@ tags_overview: false
 #   - post_count: whether to show only the x most recent posts.
 #   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
-  show_all_posts: false
-  post_count: 5
+  show_all_posts: true
   sort_updated: false
 
 # Customize the archive view.
