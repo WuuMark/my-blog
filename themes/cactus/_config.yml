@@ -15,10 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  search: /search/
   about: /about/
-  articles: /archives/
-  projects: http://github.com/wuumark/blog
+  导航: /导航/
+  文章: /archives/
 
 
 # Links to your social media accounts.
