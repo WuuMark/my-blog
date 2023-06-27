@@ -76,7 +76,7 @@ copyright:
 error_404:
   enabled: true
   title: "404 Page Not Found"
-  description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  description: "你似乎来到了没有知识存在的荒原..."
 
 
 ##############################################################################

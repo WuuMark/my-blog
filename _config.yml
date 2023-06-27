@@ -5,11 +5,11 @@
 # Site
 title: WuuMark's Blog
 subtitle: ''
-description: ''
+description: '前途似海，来日方长！'
 keywords:
 author: WuuMark
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
