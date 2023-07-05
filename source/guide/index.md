@@ -13,3 +13,4 @@ date: 2023-06-26 14:40:50
 
 #<font color="#000080">实用网站收集</font>
 <font color="#FF6347">***1.Z-library镜像站***：</font>[Z-library网址](https://zbook.eu.org)
+<font color="#FF6347">***2.ChatGPT共享体验站***<u><font color="blue">（感谢Pengzhile大佬的开发以及热心网友的贡献！）</font></u>：</font>[ChatGPT共享网址](https://chat-shared2.zhile.io/)
