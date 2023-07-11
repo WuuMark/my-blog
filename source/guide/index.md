@@ -10,6 +10,7 @@ date: 2023-06-26 14:40:50
 <font color="#FF6347">4. ***新bing镜像站***：</font>[新bing网址](https://bing.wuumark.eu.or)
 <font color="#FF6347">4.1***备用镜像（较慢）***：</font>[备用网址](https://webbing.wuumark.eu.org)
 <font color="#FF6347">5. ***github镜像站***：</font>[github网址](https://hub.wuumark.eu.org)
+<font color="#FF6347">6. ***音游人底力练习器***：</font>[吃掉小鹿乃网址](https://eatkano.wuumark.eu.org)
 
 #<font color="#000080">实用网站收集</font>
 <font color="#FF6347">***1.Z-library镜像站***：</font>[Z-library网址](https://zbook.eu.org)
